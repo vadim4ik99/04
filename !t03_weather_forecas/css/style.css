@@ -1,0 +1,36 @@
+img {
+	width: 90px;
+}
+.wrap {
+	width: 1050px;
+	display:flex;
+	flex-direction: column;
+	border: 1px solid black;
+	box-shadow: 10px 5px 5px grey;
+	
+	
+}
+.city {
+	background-color:blue;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+	text-align:center;
+}
+.days {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	background-color: #f5f8f5;
+}
+.day {
+	width: 100px;
+}
+
+.date { font-size: 16px;
+	font-weight: bold;
+	text-align:center;
+}
+.temp {
+	text-align:center;
+}
