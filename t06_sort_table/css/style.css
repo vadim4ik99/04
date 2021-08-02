@@ -1,0 +1,24 @@
+body {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+}
+table {
+	margin: 0 auto;
+	width: 250px;
+	height: 500px;
+	border: 1px solid black;
+}
+th {
+	background-color: red;
+}
+td {
+	background-color: grey;
+	border: 1px solid white;
+}
+#placeholder {
+	width: 200px;
+	float: right;
+	background-color: #808080;
+	border-radius: 5px;
+}
